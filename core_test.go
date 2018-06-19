@@ -5,7 +5,7 @@ import (
 
 	"gonum.org/v1/gonum/floats"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 func data1() dstream.Dstream {

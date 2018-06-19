@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 // A FocusCreator derives a focusable model from a general regression model.

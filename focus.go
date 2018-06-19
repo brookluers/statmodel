@@ -3,7 +3,7 @@ package statmodel
 import (
 	"fmt"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 // FocusData is a Dstream that collapses a dataset by linear reduction

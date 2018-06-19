@@ -9,7 +9,7 @@ import (
 
 	"gonum.org/v1/gonum/mat"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 type HessType int

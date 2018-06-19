@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 	"gonum.org/v1/gonum/floats"
 	"gonum.org/v1/gonum/mat"
 )
